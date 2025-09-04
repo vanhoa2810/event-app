@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1756967924406",
+    "title": "Test Meeting",
+    "description": "A test meeting",
+    "date": "2024-09-05",
+    "time": "14:00",
+    "location": "Conference Room A",
+    "participants": [
+      "john@example.com",
+      "jane@example.com"
+    ],
+    "createdAt": "2025-09-04T06:38:44.406Z"
+  }
+]
