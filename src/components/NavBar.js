@@ -1,0 +1,4 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export default function NavBar() {
+    return (_jsxs("header", { className: "navbar", role: "banner", children: [_jsx("div", { className: "navbar__brand", "aria-label": "Brand", children: "\u25C7" }), _jsxs("nav", { className: "navbar__links", "aria-label": "Primary", children: [_jsx("a", { href: "#", "aria-current": "page", children: "Events" }), _jsx("a", { href: "#", children: "Calendars" }), _jsx("a", { href: "#", children: "Discover" })] }), _jsxs("div", { className: "navbar__right", children: [_jsx("span", { children: "9:06 PM GMT+7" }), _jsx("button", { className: "btn btn--primary", style: { height: 36 }, children: "Create Event" }), _jsx("span", { "aria-label": "Notifications", role: "button", tabIndex: 0, children: "\uD83D\uDD14" }), _jsx("span", { "aria-label": "User Profile", role: "button", tabIndex: 0, children: "\uD83D\uDE42" })] })] }));
+}
